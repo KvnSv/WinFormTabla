@@ -1,0 +1,16 @@
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\bin\Debug\net6.0-windows\WindowsFormstabla.exe
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\bin\Debug\net6.0-windows\WindowsFormstabla.deps.json
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\bin\Debug\net6.0-windows\WindowsFormstabla.runtimeconfig.json
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\bin\Debug\net6.0-windows\WindowsFormstabla.dll
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\bin\Debug\net6.0-windows\WindowsFormstabla.pdb
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\obj\Debug\net6.0-windows\WindowsFormstabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\obj\Debug\net6.0-windows\WindowsFormstabla.AssemblyInfoInputs.cache
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\obj\Debug\net6.0-windows\WindowsFormstabla.AssemblyInfo.cs
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\obj\Debug\net6.0-windows\WindowsFormstabla.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\obj\Debug\net6.0-windows\WindowsFormstabla.dll
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\obj\Debug\net6.0-windows\refint\WindowsFormstabla.dll
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\obj\Debug\net6.0-windows\WindowsFormstabla.pdb
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\obj\Debug\net6.0-windows\WindowsFormstabla.genruntimeconfig.cache
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\obj\Debug\net6.0-windows\ref\WindowsFormstabla.dll
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\obj\Debug\net6.0-windows\WindowsFormstabla.Form1.resources
+C:\Users\charl\OneDrive\Escritorio\KEVIN\UAA\TERCER SEMESTRE\PROGRAMACION II\C#\TAREA 16 DE NOV\WindowsFormstabla\WindowsFormstabla\obj\Debug\net6.0-windows\WindowsFormstabla.csproj.GenerateResource.cache
